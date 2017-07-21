@@ -18,7 +18,7 @@
     <body>
         <table border="1">
             <tr>
-                <th>
+                <th colspan="6">
                     二星
                 </th>
             </tr>
@@ -27,16 +27,19 @@
                     組數
                 </td>
                 <td>
-                    組數
+                    連碰金額
+                </td>
+                <td>
+                    本金
                 </td>
                 <td>
                     組數
                 </td>
                 <td>
-                    組數
+                    柱碰金額
                 </td>
                 <td>
-                    組數
+                    本金
                 </td>
             </tr>
         </table>
